@@ -16,8 +16,7 @@ Etapa 3: - [AWS Cost Explorer] - [Visibilidade e controle total sobre os gastos.
 Conclusão
 A implementação de ferramentas na empresa [Abstergo industries] tem como esperado [Redução de custo de até 90% em comparação com as instâncias On-Demand,Redução de até 75% nos custos de banco de dados, Visibilidade e controle total sobre os gastos.], o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
-Anexos
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+
 
 Assinatura do Responsável pelo Projeto:
 
